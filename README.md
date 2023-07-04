@@ -63,3 +63,10 @@ npm run server
 cd frontend
 npm run build
 ```
+
+## Contributors
+
+- Dev Bohra
+- Anuja Deshpande
+- Surabhi Deshpande
+- Aditya Patil
